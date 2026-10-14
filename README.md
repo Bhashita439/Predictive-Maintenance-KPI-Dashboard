@@ -102,14 +102,14 @@ streamlit run frontend/streamlit_app.py --server.port 8501
 Update the `PREDICTIVE_API_BASE_URL` environment variable if the API is hosted elsewhere.
 
 ## 📝 Documentation & Portfolio Links
-- **[GitHub Repository](#)** (Code & Implementation)
+- **[GitHub Repository](https://github.com/Bhashita439/Predictive-Maintenance-KPI-Dashboard)** (Code & Implementation)
 - **[Power BI/Tableau Dashboard](#)** (Live KPI Dashboard)
 - **[Business Impact Report](#)** (Financial Justification)
 
 ## 👨‍💻 Author
-**Anthony Rodriguez**  
-🔗 [LinkedIn Profile](#)  
-📧 [Email](#)
+**Bhashita Nalluri**  
+🔗 [GitHub Profile](https://github.com/Bhashita439)  
+📧 [bhashitanalluri1438@gmail.com](mailto:bhashitanalluri1438@gmail.com)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
